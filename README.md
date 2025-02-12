@@ -45,7 +45,8 @@ My journey in computer science has led me to develop a deep passion for cybersec
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/dc14104d-1527-4708-ae8e-4285fe3aff70/public_url">
+<img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
