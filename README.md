@@ -47,10 +47,12 @@ My journey in computer science has led me to develop a deep passion for cybersec
 <div>
 <a href="https://www.credly.com/badges/dc14104d-1527-4708-ae8e-4285fe3aff70/public_url">
 <img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://drive.google.com/file/d/1pRP5wnU_JUQKfattD8W2VQ4hq5DkIqjk/view?usp=sharing">
+<img src="https://img.shields.io/badge/-Certified_Ethical_Hacker_(CEH)_v12-A100FF?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+</a>
+<a href="https://www.netacad.com/courses/ccna-introduction-networks">
+<img src="https://img.shields.io/badge/-CCNA_Training-005F9E?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</a>
 </div>
 
 ## Projects
