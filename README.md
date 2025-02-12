@@ -15,9 +15,9 @@ My journey in computer science has led me to develop a deep passion for cybersec
 | SIEM Implementation and Log Analysis          | |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Amazon Web Services (AWS), Python Scripting                     | <a href="https://github.com/Aniket060/Cost-Optimized-AWS-Snapshot-Management">AWS Cost Optimization Tool</a>|
-| Python Programming                                        | <a href="https://github.com/Aniket060/SecurePasswordManager">Secure Password Manager</a>|
+| Cloud Security, Cryptography                  | <a href="https://github.com/Aniket060/Decentralized-Proxy-Re-Encryption">Decentralized Proxy Re-Encryption</a>|
+| Amazon Web Services (AWS), Python Scripting   | <a href="https://github.com/Aniket060/Cost-Optimized-AWS-Snapshot-Management">AWS Cost Optimization Tool</a>|
+| Python Programming                            | <a href="https://github.com/Aniket060/SecurePasswordManager">Secure Password Manager</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
