@@ -48,9 +48,9 @@ My journey in computer science has led me to develop a deep passion for cybersec
 <a href="https://www.credly.com/badges/dc14104d-1527-4708-ae8e-4285fe3aff70/public_url">
 <img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1pRP5wnU_JUQKfattD8W2VQ4hq5DkIqjk/view?usp=sharing">
-<img src="https://img.shields.io/badge/-Certified_Ethical_Hacker_(CEH)_v12-A100FF?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified_Ethical_Hacker_(CEH)_v12-FF0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 </a>
-<a href="https://www.netacad.com/courses/ccna-introduction-networks">
+<a href="https://www.udemy.com/certificate/UC-7704dd7e-6c77-4a45-8e6a-e5fc9ae91a8a/">
 <img src="https://img.shields.io/badge/-CCNA_Training-005F9E?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </a>
 </div>
