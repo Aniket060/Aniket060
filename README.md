@@ -20,7 +20,6 @@ My journey in computer science has led me to develop a deep passion for cybersec
 | Python Programming                            | <a href="https://github.com/Aniket060/SecurePasswordManager">Secure Password Manager</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -43,7 +42,6 @@ My journey in computer science has led me to develop a deep passion for cybersec
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/dc14104d-1527-4708-ae8e-4285fe3aff70/public_url">
 <img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /></a>
