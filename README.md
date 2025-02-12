@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a deep passion for cybersec
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Python                                        | <a href="https://google.com](https://github.com/Aniket060/SecurePasswordManager">Secure Password Manager</a>|
+| Python                                        | <a href="https://github.com/Aniket060/SecurePasswordManager">Secure Password Manager</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
