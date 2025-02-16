@@ -12,12 +12,10 @@ My journey in computer science has led me to develop a deep passion for cybersec
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | |
-| Network Traffic Monitoring and Attack Detection | |
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/Aniket060/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
-| Cloud Security, Cryptography                  | Decentralized Proxy Re-Encryption|
+| SIEM, EDR, Automation                         | <a href="https://github.com/Aniket060/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 | Amazon Web Services (AWS), Python Scripting   | <a href="https://github.com/Aniket060/Cost-Optimized-AWS-Snapshot-Management">AWS Cost Optimization Tool</a>|
 | Python Programming                            | <a href="https://github.com/Aniket060/SecurePasswordManager">Secure Password Manager</a>|
+| Cloud Security, Cryptography                  |Decentralized Proxy Re-Encryption|
 
 ## Tools
 
@@ -61,5 +59,7 @@ My journey in computer science has led me to develop a deep passion for cybersec
 </div>
 
 ## Projects
-- Detection Lab
 - SOC Automation Project
+- AWS Cost Optimization Tool
+- Secure Password Manager
+- Decentralized Proxy Re-Encryption
