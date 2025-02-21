@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a deep passion for cybersec
 |-----------------------------------------------|----------------------------|
 | SIEM, EDR, Automation                         | <a href="https://github.com/Aniket060/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 | Amazon Web Services (AWS), Python Scripting   | <a href="https://github.com/Aniket060/Cost-Optimized-AWS-Snapshot-Management">AWS Cost Optimization Tool</a>|
-| Wireshark, Network Analysis                   | <a href="https://github.com/Aniket060/SOC-Automation-Project/tree/main">Network Traffic Analysis</a>|
+| Wireshark, Network Analysis                   | <a href="https://github.com/Aniket060/Network-Traffic-Analysis">Network Traffic Analysis</a>|
 | Python Programming                            | <a href="https://github.com/Aniket060/SecurePasswordManager">Secure Password Manager</a>|
 | Cloud Security, Cryptography                  |Decentralized Proxy Re-Encryption|
 
