@@ -61,6 +61,7 @@ My journey in computer science has led me to develop a deep passion for cybersec
 
 ## Projects
 - SOC Automation Project
+- Network Traffic Analysis
 - AWS Cost Optimization Tool
 - Secure Password Manager
 - Decentralized Proxy Re-Encryption
