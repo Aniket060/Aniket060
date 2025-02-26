@@ -68,4 +68,4 @@ My journey in computer science has led me to develop a deep passion for cybersec
 - Decentralized Proxy Re-Encryption
 
 ## Research
-<a href="https://drive.google.com/file/d/1IPiBXEhLOMn4XbqLA5T1wb9tlGK6v3xB/view?usp=sharing">Review of Encryption Techniques to Enhance Data Protection in Cloud </a>
+<a href="https://drive.google.com/file/d/1IPiBXEhLOMn4XbqLA5T1wb9tlGK6v3xB/view?usp=sharing">Review of Encryption Techniques to Enhance Data Protection in Cloud (Under Publication) </a>
