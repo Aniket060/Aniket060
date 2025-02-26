@@ -66,3 +66,7 @@ My journey in computer science has led me to develop a deep passion for cybersec
 - AWS Cost Optimization Tool
 - Secure Password Manager
 - Decentralized Proxy Re-Encryption
+
+## Research
+- SOC Automation Project
+  
