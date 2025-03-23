@@ -17,7 +17,6 @@ My journey in computer science has led me to develop a deep passion for cybersec
 | Wireshark, Network Analysis                   | <a href="https://github.com/Aniket060/Network-Traffic-Analysis">Network Traffic Analysis</a>|
 | Python Programming                            | <a href="https://github.com/Aniket060/SecurePasswordManager">Secure Password Manager</a>|
 | Cloud Security, Cryptography                  |Decentralized Proxy Re-Encryption|
-| Snort, pfSense                                |Network Security Project (In Progress)|
 
 ## Tools
 
