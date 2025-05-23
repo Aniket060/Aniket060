@@ -2,21 +2,22 @@
 <a href="https://linkedin.com/in/aniket-pattanshetti"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a Final-Year Student of M.Tech Cybersecurity with a profound interest in Incident Detection & Response and Cloud Security. 
+I am a Final-Year Student of M.Tech Cybersecurity with a profound interest in Cloud Security. I enjoy learning how to protect systems and data, especially in cloud environments.
 
 ## Objective
 
-My journey in computer science has led me to develop a deep passion for cybersecurity. I am eager to apply my expertise in threat detection, incident response, and cloud security to protect enterprise environments. With a strong foundation in security automation, log analysis, and risk mitigation, I seek opportunities where I can contribute to strengthening an organization's security posture.
+My journey in Information Technology has led me to develop a deep passion for Cybersecurity. I’m looking to build hands-on experience in areas such as threat detection and response, risk analysis, and evaluating cloud security posture. I’m particularly interested in how security principles are applied in cloud environments—from architecture to ongoing monitoring. I hope to contribute to a team where I can grow my skills and help improve overall security posture.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Wazuh SIEM, EDR, Linux, Windows, Log Analysis                        | <a href="https://github.com/Aniket060/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
-| Amazon Web Services (AWS), Python Scripting   | <a href="https://github.com/Aniket060/Cost-Optimized-AWS-Snapshot-Management">AWS Cost Optimization Tool</a>|
+| Wazuh SIEM, Linux, Windows, Log Analysis                        | <a href="https://github.com/Aniket060/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| Splunk, AWS                           | <a href="https://github.com/Aniket060/Cloud-Security-Monitoring-using-Splunk">Cloud Security Monitoring using Splunk</a>|
+| AWS, Python Scripting   | <a href="https://github.com/Aniket060/Cost-Optimized-AWS-Snapshot-Management">AWS Cost Optimization Tool</a>|
 | Wireshark, Network Analysis                   | <a href="https://github.com/Aniket060/Network-Traffic-Analysis">Network Traffic Analysis</a>|
 | Python Programming                            | <a href="https://github.com/Aniket060/SecurePasswordManager">Secure Password Manager</a>|
-| Cloud Security, Cryptography                  |Decentralized Proxy Re-Encryption|
+| Cloud Security, Cryptography                  |Distributed Proxy Re-Encryption System for Cloud|
 
 ## Tools
 
@@ -24,6 +25,9 @@ My journey in computer science has led me to develop a deep passion for cybersec
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nGeniusONE-90EE90?&style=for-the-badge&logo=netscout&logoColor=white" />
+
+
 </div>
 
 ### EDR
@@ -60,6 +64,7 @@ My journey in computer science has led me to develop a deep passion for cybersec
 </div>
 
 ## Projects
+- Cloud Security Monitoring using Splunk
 - SOC Automation Project
 - Network Traffic Analysis
 - AWS Cost Optimization Tool
