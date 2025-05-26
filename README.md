@@ -12,8 +12,8 @@ My journey in Information Technology has led me to develop a deep passion for Cy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Wazuh SIEM, Linux, Windows, Log Analysis                        | <a href="https://github.com/Aniket060/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 | Splunk, AWS                           | <a href="https://github.com/Aniket060/Cloud-Security-Monitoring-using-Splunk">Cloud Security Monitoring using Splunk</a>|
+| Wazuh SIEM, Linux, Windows, Log Analysis                        | <a href="https://github.com/Aniket060/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 | AWS, Python Scripting   | <a href="https://github.com/Aniket060/Cost-Optimized-AWS-Snapshot-Management">AWS Cost Optimization Tool</a>|
 | Wireshark, Network Analysis                   | <a href="https://github.com/Aniket060/Network-Traffic-Analysis">Network Traffic Analysis</a>|
 | Python Programming                            | <a href="https://github.com/Aniket060/SecurePasswordManager">Secure Password Manager</a>|
