@@ -1,5 +1,9 @@
 # Hello, I'm Aniket Pattanshetti
 <a href="https://linkedin.com/in/aniket-pattanshetti"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@aniketsp0">
+  <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
 
 
 I am a Final-Year Student of M.Tech Cybersecurity with a profound interest in Cloud Security. I enjoy learning how to protect systems and data, especially in cloud environments.
